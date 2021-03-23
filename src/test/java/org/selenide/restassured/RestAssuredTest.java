@@ -1,4 +1,4 @@
-package org.selenide.examples;
+package org.selenide.restassured;
 
 import com.github.tomakehurst.wiremock.junit.WireMockRule;
 import io.restassured.builder.RequestSpecBuilder;
